@@ -1,0 +1,26 @@
+[
+    {
+        "name": "keval Gelani",
+        "age": 23,
+        "email": "keval@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "keval",
+        "age": 21,
+        "email": "kevalgelani7863@gmail.com",
+        "pin": 1234,
+        "accountNo.": "108Z*my",
+        "balance": 10000
+    },
+    {
+        "name": "soham",
+        "age": 21,
+        "email": "soham@gmail.com",
+        "pin": 1212,
+        "accountNo.": "TD5I23#",
+        "balance": 0
+    }
+]
