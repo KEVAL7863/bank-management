@@ -22,5 +22,13 @@
         "pin": 1212,
         "accountNo.": "TD5I23#",
         "balance": 0
+    },
+    {
+        "name": "tanveer",
+        "age": 21,
+        "email": "tanver@gmail.com",
+        "pin": 2323,
+        "accountNo.": "W78$j4V",
+        "balance": 500
     }
 ]
